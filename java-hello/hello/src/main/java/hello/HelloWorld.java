@@ -3,7 +3,7 @@ package hello;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("this is hello java for maven.");
+		System.out.println("this is hello java for maven update from someone.");
 	}
 
 }
